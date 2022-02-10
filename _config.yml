@@ -16,7 +16,7 @@ author: Ocean Nexus
 navbar-links:
   About: "https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/"
   Workshop Materials:
-    - Slides & Recordings: "https://beautifuljekyll.com"
+    - Slides & Recordings: "workshop-materials"
     - Discussions: "https://www.markdowntutorial.com/"
     - Mural: "https://drive.google.com/file/d/18J5DzVjdqXKkT9mvxcFNG73RF1PceTZR/view"
   People: "aboutme"
