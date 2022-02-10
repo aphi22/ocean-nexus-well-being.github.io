@@ -15,10 +15,12 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 **Objective:** The goal of the workshop is to encompass and understand a holistic approach to wellbeing for oceans 
 
 ## **Dates**
+
 | ------------- |:-------------:|
 | **Day 1**     | June 23, 2021 |
 | **Day 2**     | June 24, 2021 |
-# Speakers and Panelists
+
+## Speakers and Panelists
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
   {% for p in site.data.speakers %}
