@@ -52,6 +52,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 <a href="speakers">More Info</a>
 </div>
 
+## Organizing Committee
 
 <hr>
 
