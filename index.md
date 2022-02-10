@@ -4,6 +4,13 @@ title: Ocean Wellbeing Workshop
 use-site-title: true
 ---
 
+header {
+  background-image: url("background");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
 # Ocean Nexus
 Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.
 
