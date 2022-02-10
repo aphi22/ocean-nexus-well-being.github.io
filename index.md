@@ -6,6 +6,7 @@ use-site-title: false
 
 # Ocean Nexus
 Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.
+
 [Visit Ocean Nexus Center Website](https://oceannexus.uw.edu/)
 
 | ------------- |:-------------:|
