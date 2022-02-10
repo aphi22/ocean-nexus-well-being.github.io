@@ -17,7 +17,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 ## **Dates**
 
 | ------------- |:-------------:|
-| **Day 1**     | June 23, 2021 |
+| **Day 1 test**     | June 23, 2021 |
 | **Day 2**     | June 24, 2021 |
 
 ## Speakers and Panelists
