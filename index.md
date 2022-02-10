@@ -9,12 +9,6 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 
 [Visit Ocean Nexus Center Website](https://oceannexus.uw.edu/)
 
-| ------------- |:-------------:|
-| **Submission** | March 3rd, 2021   |
-| **Notification** | March 26th, 2021 |
-| **Workshop** | May 7th, 2021 |
-
-
 <hr>
 
 # Speakers and Panelists
