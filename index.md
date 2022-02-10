@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean Wellbeing Workshop
+title: Ocean Nexus Center | Wellbeing Workshop
 use-site-title: false
 ---
 
