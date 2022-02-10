@@ -12,8 +12,10 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 <hr>
 
 # Workshop Overview
-** Learning Objective:** The goal of the workshop is to encompass and understand a holistic approach to wellbeing for oceans 
-** Goal for Participants:** To recognize and describe multiple framings, definitions, and dimensions of wellbeing, and assess how these have been and can be applied through a detailed case study
+
+**Learning Objective:** The goal of the workshop is to encompass and understand a holistic approach to wellbeing for oceans 
+
+**Goal for Participants:** To recognize and describe multiple framings, definitions, and dimensions of wellbeing, and assess how these have been and can be applied through a detailed case study
 
 ### **Dates**
 
