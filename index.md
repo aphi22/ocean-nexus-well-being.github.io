@@ -5,9 +5,8 @@ use-site-title: false
 ---
 
 # Ocean Nexus
-### Oceans for Everyone
-`Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.`
-
+Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.
+[Visit Ocean Nexus Center Website](https://oceannexus.uw.edu/)
 
 | ------------- |:-------------:|
 | **Submission** | March 3rd, 2021   |
