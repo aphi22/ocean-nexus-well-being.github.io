@@ -14,11 +14,12 @@ author: Ocean Nexus
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/"
+  Workshop Materials:
+    - Slides & Recordings: "https://beautifuljekyll.com"
+    - Discussions: "https://www.markdowntutorial.com/"
+    - Mural: "https://drive.google.com/file/d/18J5DzVjdqXKkT9mvxcFNG73RF1PceTZR/view"
+  People: "aboutme"
 
 # --- Logo --- #
 
