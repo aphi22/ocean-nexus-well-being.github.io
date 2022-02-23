@@ -69,7 +69,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
   </div>
 </div>
 
-\*primary contact: bryan.wilder0@gmail.com
+\*primary contact: 
 <hr>
 
 
