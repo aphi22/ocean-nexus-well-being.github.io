@@ -18,8 +18,8 @@ navbar-links:
   About: "https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/"
   Workshop Materials:
     - Slides & Recordings: "workshop-materials"
-    - Discussions: "discussion"
-    - MURAL Collaboration: "mural"
+    - Participant Discussions: "discussion"
+    - What is Mural?: "mural"
   People: "aboutme"
 
 # --- Logo --- #
