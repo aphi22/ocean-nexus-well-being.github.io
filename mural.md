@@ -10,3 +10,4 @@ subtitle: Mural Collaboration
 
 MURAL is space for your team to collaborate visually and problem-solve faster with an easy-to-use digital canvas. No ordinary online whiteboard, MURAL has powerful facilitation features, guided methods, and the deep expertise organizations need to transform teamwork.
 
+![Mural Collaboration](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/611e9f57f3220316519cd693_home-opengraph-new.gif)
