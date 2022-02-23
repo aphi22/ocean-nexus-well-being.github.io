@@ -12,9 +12,9 @@ subtitle: Mural Collaboration
 
 ![Mural Collaboration](https://assets-global.website-files.com/5ddd9c3f2186308353fe682d/611e9f57f3220316519cd693_home-opengraph-new.gif)
 
-# How we used MURAL for participant discussion:
+# MURAL for Participant Discussion:
 
-### MURAL was used to encourage everyone to participate and feel free to express themselves in words, pictures, poems, gifs, or any form. Participants were given a pre-survey through MURAL prior to attending the workshop and were asked to use MURAL as a platform to participate in group discussions.
+MURAL was used to encourage everyone to participate and feel free to express themselves in words, pictures, poems, gifs, or any form. Participants were given a pre-survey through MURAL prior to attending the workshop and were asked to use MURAL as a platform to participate in group discussions.
 
 ## Links to final murals:
 
