@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean Wellbeing Workshop
+title: Ocean Well-being Workshop
 use-site-title: false
 ---
 
@@ -8,11 +8,11 @@ use-site-title: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ-5MDY_JYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Introduction Full slides](https://drive.google.com/file/d/1J4RnB_gdYAhd_Ieo9sELwOY1Da3lNOer/view)
 
-# **What is Wellbeing?** 
+# **What is Well-being?** 
 
-## Wellbeing domains:
+## Well-being domains:
 
-### Health-related wellbeing: *Elaine M. Faustman, Professor, University of Washington*
+### Health-related well-being: *Elaine M. Faustman, Professor, University of Washington*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zdrhLWxW9is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Health-Related Wellbeing Full Slides](https://drive.google.com/file/d/1JaF10VyN1f-3kDEYWVXEjjSmYoz26SUJ/view)
 
