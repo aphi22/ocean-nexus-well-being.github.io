@@ -23,7 +23,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 | **Day 1**     | June 23, 2021 |
 | **Day 2**     | June 24, 2021 |
 
-### Speakers and Panelists
+### Workshop Team
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
   {% for p in site.data.speakers %}
@@ -57,7 +57,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 
 <hr>
 
-### Organizing Committee
+### Coordinating Team
 
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 20px;">
