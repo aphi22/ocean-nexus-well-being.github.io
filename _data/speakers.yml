@@ -2,33 +2,33 @@ Elaine:
   name: "Elaine Faustman"
   email: "faustman@uw.edu"
   affiliation: "Professor, University of Washington"
-  img: "/assets/img/elaine.png"
+  img: "../assets/img/elaine.png"
   bio: "Dr. Elaine Faustman is a toxicologist and Professor in the UW Department of Environmental & Occupational Health Sciences and Director of the Institute for Risk Analysis and Risk Communication (IRARC)."
 
 Kate:
   name: "Kate Barclay"
   email: "Kate.Barclay@uts.edu.au"
   affiliation: "Professor, University of Technology, Sydney"
-  img: "/assets/img/kate.png"
+  img: "../assets/img/kate.png"
   bio: "Kate Barclay is a social scientist researching the social aspects of fisheries, at a time when industry and government are increasingly recognising the importance of human dimensions in sustainable fisheries."
 
 Suzy:
   name: "Suzy An"
   email: "suji@uw.edu"
   affiliation: "Ocean Nexus Fellow, University of Washington"
-  img: "/assets/img/suzy.png"
+  img: "../assets/img/suzy.png"
   bio: "NA"
 
 Tiff:
     name: "Tiff-Annie Kenny"
     email: "tiff-annie.kenny@crchudequebec.ulaval.ca"
     affiliation: "Professor, Universite Laval"
-    img: "/assets/img/tiff.png"
+    img: "../assets/img/tiff.png"
     bio: "Tiff-Annie is interested in human dependency on biodiversity for nutrition and food security. Her research employs participatory and systems-based methodologies to examine the links between marine environments and human health, with a particular focus on the ecological, environmental, and economic dimensions of Indigenous Peoples food systems. Tiff-Annie holds a B.Eng. and an MSc. (Applied) in Biosystems Engineering from McGill University, and a PhD in Biology from the University of Ottawa."
 
 Jill:
   name: "Jill Falman"
   email: "falman@uw.edu"
   affiliation: "Research Scientist, University of Washington"
-  img: "/assets/img/jill.png"
+  img: "../assets/img/jill.png"
   bio: "NA"
