@@ -1,0 +1,41 @@
+aisha:
+  name: "Aisha Walcott"
+  url: "https://www.linkedin.com/in/aisha-walcott-bryant-phd-85b40343/"
+  affiliation: "IBM Research Africa"
+  img: "aisha.png"
+  bio: "Aisha Walcott is a research scientist and manager at IBM Research Africa - Nairobi, Kenya. She leads a team of research scientists and engineers in the development of novel innovations in the Future of Health and Climate. She and her team leverage AI, Blockchain, and other technologies to create solutions to transform Health Systems, provide new tools for Population Health, and develop systems to support Water Access and Management particularly for emerging countries. When Aisha joined the IBM Research Africa lab, she led the research efforts to improve mobility and transportation in developing cities. She and her team developed innovative intelligent transportation systems data capture methods and analytical tools, to provide computational understanding about the local driving and infrastructure context. Aisha earned her PhD in the Electrical Engineering and Computer Science Department at MIT."
+
+nuria:
+  name: "Nuria Oliver"
+  url: "https://nuriaoliver.com"
+  affiliation: "Data-Pop Alliance, Vodafone Institute, ELLIS"
+  img: "nuria.jpg"
+  bio: "Nuria Oliver is Chief Data Scientist at Data-Pop Alliance, Chief Scientific Advisor at the Vodafone Institute, co-founder and vice-president of ELLIS (The European Laboratory for Learning and Intelligent Systems) and co-founder of the Alicante ELLIS Unit, devoted to research on Human(ity)-centric Artificial Intelligence. She is a Telecommunications Engineer from the Universidad Politécnica de Madrid and holds a PhD in Artificial Intelligence from the Massachusetts Institute of Technology (MIT). In March 2020, she was named Commissioner for the President of the Valencian Region on AI Strategy and Data Science to fight Covid-19. Since then, she has led a team of with 20+ data scientists. She is an independent member of the Board of Directors at Bankia."
+
+susan:
+  name: "Susan Murphy"
+  url: "http://people.seas.harvard.edu/~samurphy/"
+  affiliation: "Harvard University"
+  img: "susan.jpg"
+  bio: "Susan Murphy is Professor of Statistics at Harvard University, Radcliffe Alumnae Professor at the Radcliffe Institute, Harvard University, and Professor of Computer Science at the Harvard John A. Paulson School of Engineering and Applied Sciences. Her lab works on clinical trial designs and online learning algorithms for developing personalized mobile health interventions. She is a 2013 MacArthur Fellow, a member of the National Academy of Sciences and the National Academy of Medicine, both of the US National Academies."
+
+suvrit:
+    name: "Suvrit Sra"
+    url: "https://idss.mit.edu/staff/suvrit-sra-2/"
+    affiliation: "MIT"
+    img: "suvrit.jpg"
+    bio: "Suvrit Sra is the Esther and Harold E. Edgerton (1927) Career Development Associate Professor of Electrical Engineering and Computer Science at MIT and a core faculty member in the MIT Institute for Data, Systems, and Society. He is also Chief AI Officer and co-founder at macro-eyes, a startup focused on global health. macro-eyes developed a vaccine forecasting tool that reduced vaccine wastage by 96 percent across three regions of Tanzania  and a patient scheduling platform which has analyzed over 6 million hospital appointments and reduced wait times by more than 75 percent at one of the largest heart hospitals in the U.S. Suvrit’s work has won several awards at machine learning conferences, as well as the 2011 SIAM Outstanding Paper award, faculty research awards from Criteo and Amazon, and an NSF CAREER award. He founded the OPT (Optimization for Machine Learning) series of workshops at the NIPS conference, which he has co-chaired since 2008 and was an area chair for NeuRIPS 2019."
+
+mihaela:
+  name: "Mihaela van der Schaar"
+  url: "https://www.vanderschaar-lab.com/"
+  affiliation: "University of Cambridge, The Alan Turing Institute, UCLA"
+  img: "mihaela.jpg"
+  bio: "Mihaela van der Schaar is John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Turing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USA patents (many widely cited and adopted in standards) and 45+ contributions to international standards for which she received 3 International ISO (International Organization for Standardization) Awards."
+
+ziad:
+  name: "Ziad Obermeyer"
+  url: "http://ziadobermeyer.com/"
+  affiliation: "UC Berkeley"
+  img: "ziad.jpg"
+  bio: "Ziad Obermeyer is the Blue Cross of California Distinguished Professor of Health Policy and Management in the School of Public Health at UC Berkeley, where he does research at the intersection of machine learning, medicine, and health policy. He was named an Emerging Leader by the National Academy of Medicine, and has received numerous awards including the Early Independence Award -- the National Institutes of Health’s most prestigious award for exceptional junior scientists -- and the Young Investigator Award from the Society for Academic Emergency Medicine. Previously, he was an Assistant Professor at Harvard Medical School. He continues to practice emergency medicine in underserved communities."
