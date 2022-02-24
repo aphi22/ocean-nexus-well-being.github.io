@@ -23,14 +23,17 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 | **Day 1**     | June 23, 2021 |
 | **Day 2**     | June 24, 2021 |
 
+<hr>
 ### Agenda
 
 | What is well-being? | How is it used? | Well-being in your research? |
-| ------------- |:-------------:| ------------ |
+| ------------- |-------------| ------------ |
 | Introductory slides to well-being and Indonesia case study | Wales Video and case study slides | Activity assessing well-being related to Nexus research |
 | Videos on different dimensions of well-being | Activity assessing Wales indicator and trade-offs | Group discussion on well-being and Nexus research |
-| Group discussion on wellbeing | Group discussion on Wales indicators and trade-offs | |
-| interactive critical discussion on wellbeing | | |
+| Group discussion on wellbeing | Group discussion on Wales indicators and trade-offs |    |
+| interactive critical discussion on wellbeing |   |    
+
+<hr>
 ### Workshop Team
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
