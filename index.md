@@ -37,7 +37,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 ### Workshop Team
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
-  {% for p in site.data.speakers %}
+  {% for p in site.data.workshopteam %}
   {% if forloop.index<=4 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
@@ -45,7 +45,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
   {% endfor %}
   </div>
   <div class="row">
-  {% for p in site.data.speakers %}
+  {% for p in site.data.workshopteam %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% if forloop.index>4 and forloop.index<=10%}
   {% include profile.html p=p %}
@@ -53,7 +53,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
   {% endfor %}
   </div>
   <div class="row">
-  {% for p in site.data.speakers %}
+  {% for p in site.data.workshopteam %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% if forloop.index>10%}
   {% include profile.html p=p %}
@@ -63,7 +63,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
 
 <div class="container" style="margin-top: 40px;margin-bottom: 10px;">
-<a href="speakers">More Info</a>
+<a href="https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/people/">More Info</a>
 </div>
 
 <hr>
@@ -73,7 +73,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 20px;">
   <div class="row">
-    {% for p in site.data.workshopteam %}
+    {% for p in site.data.coordinatingteam %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endfor %}
