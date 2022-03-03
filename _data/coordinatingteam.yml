@@ -1,0 +1,10 @@
+Yoshi:
+  name: "Yoshitoka Ota"
+  email: "yota1@uw.edu"
+  affiliation: "Professor and Director, Nippon Foundation Ocean Nexus Center"
+  img: "../assets/img/yoshi.png"
+Karin:
+  name: "Karin O. Trudo"
+  email: "Kate.Barclay@uts.edu.au"
+  affiliation: "Program Specialist, Nippon Foundation Ocean Nexus Center"
+  img: "../assets/img/karin.png"
