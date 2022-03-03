@@ -73,7 +73,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 25px;margin-bottom: 20px;">
   <div class="row">
-    {% for p in site.data.organizers %}
+    {% for p in site.data.workshopteam %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endfor %}
