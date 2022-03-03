@@ -71,13 +71,31 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 ### Coordinating Team
 
 <!-- prettier-ignore -->
-<div class="container" style="margin-top: 25px;margin-bottom: 20px;">
+<div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
-    {% for p in site.data.coordinatingteam %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% include profile.html p=p %}
-    {% endfor %}
+  {% for p in site.data.coordinatingteam %}
+  {% if forloop.index<=4 %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
   </div>
+  <div class="row">
+  {% for p in site.data.coordinatingteam %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>4 and forloop.index<=10%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.coordinatingteam %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>10%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+ </div>
 </div>
 
 \*primary contact: 
