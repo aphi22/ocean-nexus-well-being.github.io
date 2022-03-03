@@ -10,6 +10,14 @@ title: Ocean Wellbeing Workshop
 
 {% endif %} {% endfor %}
 
+# Additional Collaborators
+
+{% for p in site.data.addcollab %} {% if forloop.index<8 %}
+{% capture id %}{{ p[1] }}{% endcapture %} {% include profile.html p=p %}
+{% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}
+
+{% endif %} {% endfor %}
+
 # Coordinating Team
 
 
