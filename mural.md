@@ -17,6 +17,7 @@ subtitle: Mural Collaboration
 # MURAL for Participant Discussion:
 
 MURAL was used to encourage everyone to participate and feel free to express themselves in words, pictures, poems, gifs, or any form. Participants were given a pre-survey through MURAL prior to attending the workshop and were asked to use MURAL as a platform to participate in group discussions.
+![Mural Collaboration](https://assets-global.website-files.com/5e4319072e6fb910d3a508a6/5e65fb11098d4f4ecb8b31b8_home-1.gif)
 
 **Click the following links to view MURAL results from the workshop:**
 
