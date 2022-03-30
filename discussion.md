@@ -18,7 +18,7 @@ Prior to attending the workshop, participants were asked to complete a pre-surve
 ### Q2. What does well-being mean to you personally?
 ![Mural Q2](/assets/img/mural23_q2.png)
 
-![Mural Q2](https://www.canva.com/design/DAE8eAsNRLk/oEQJ7ymVd36RLvt9rgwtGQ/watch?utm_content=DAE8eAsNRLk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Mural Q2](/assets/img/muralq2.gif)
 
 [Click here to view links to full MURALS](https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/mural/)
 
