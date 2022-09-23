@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean Wellbeing Workshop
+title: Ocean Well-being Workshop
 ---
 # Workshop Team
 
