@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ocean Wellbeing Workshop
+title: Ocean Well-being Workshop
 use-site-title: true
 ---
 
@@ -13,9 +13,9 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 
 # Workshop Overview
 
-**Learning Objective:** The goal of the workshop is to encompass and understand a holistic approach to wellbeing for oceans 
+**Learning Objective:** The goal of the workshop is to encompass and understand a holistic approach to well-being for oceans 
 
-**Goal for Participants:** To recognize and describe multiple framings, definitions, and dimensions of wellbeing, and assess how these have been and can be applied through a detailed case study
+**Goal for Participants:** To recognize and describe multiple framings, definitions, and dimensions of well-being, and assess how these have been and can be applied through a detailed case study
 
 ### **Dates**
 
@@ -30,8 +30,8 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 | ------------- |-------------| ------------ |
 | Introductory slides to well-being and Indonesia case study | Wales Video and case study slides | Activity assessing well-being related to Nexus research |
 | Videos on different dimensions of well-being | Activity assessing Wales indicator and trade-offs | Group discussion on well-being and Nexus research |
-| Group discussion on wellbeing | Group discussion on Wales indicators and trade-offs |    |
-| interactive critical discussion on wellbeing |   |    
+| Group discussion on well-being | Group discussion on Wales indicators and trade-offs |    |
+| interactive critical discussion on well-being |   |    
 
 <hr>
 ### Workshop Team
