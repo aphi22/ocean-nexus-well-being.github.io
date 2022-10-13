@@ -5,7 +5,7 @@ use-site-title: true
 ---
 
 # What is well-being?
-![Well-being](!assets/img/wordcloud.png)
+![Alt text](relative/path/to/assets/img/wordcloud.png?raw=true "Well-being")
 
 # Ocean Nexus
 Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.
