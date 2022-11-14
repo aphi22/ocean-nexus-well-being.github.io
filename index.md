@@ -5,9 +5,11 @@ use-site-title: true
 ---
 
 # What is well-being?
-![bulb_wordcloud_fixed](assets/img/bulb_wordcloud_fixed.png)
+![bulb_wordcloud_fixed](assets/img/whale_wordcloud.png)
 
 # Ocean Nexus
+A workshop was held in June of 2021 focused on well-being. Transdisciplinary leaders were brought together to collaborate and facilitate the discussion around well-being and what we can do to make it a focal point in public health. We have now created this space to disseminate what they learned and to hopefully shed some much needed light on this topic.
+
 Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.
 
 [Visit Ocean Nexus Center Website](https://oceannexus.uw.edu/)
@@ -37,6 +39,39 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 | interactive critical discussion on well-being |   |    
 
 <hr>
+### Coordinating Team
+
+<!-- prettier-ignore -->
+<div class="container" style="margin-top: 20px;margin-bottom: 10px;">
+  <div class="row">
+  {% for p in site.data.coordinatingteam %}
+  {% if forloop.index<=4 %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.coordinatingteam %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>4 and forloop.index<=10%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.coordinatingteam %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>10%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
+ </div>
+</div>
+
+\*primary contact: 
+<hr>
+
 ### Workshop Team
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
@@ -106,37 +141,6 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 
 <hr>
 
-### Coordinating Team
 
-<!-- prettier-ignore -->
-<div class="container" style="margin-top: 20px;margin-bottom: 10px;">
-  <div class="row">
-  {% for p in site.data.coordinatingteam %}
-  {% if forloop.index<=4 %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% include profile.html p=p %}
-  {% endif %}
-  {% endfor %}
-  </div>
-  <div class="row">
-  {% for p in site.data.coordinatingteam %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<=10%}
-  {% include profile.html p=p %}
-  {% endif %}
-  {% endfor %}
-  </div>
-  <div class="row">
-  {% for p in site.data.coordinatingteam %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>10%}
-  {% include profile.html p=p %}
-  {% endif %}
-  {% endfor %}
- </div>
-</div>
-
-\*primary contact: 
-<hr>
 
 
