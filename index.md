@@ -65,9 +65,11 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
 
 \*primary contact
-<hr>
-
+    
+<hr>  
 ### Workshop Team
+    
+<!-- prettier-ignore -->  
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
   {% for p in site.data.workshopteam %}
@@ -97,10 +99,10 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 
 <div class="container" style="margin-top: 40px;margin-bottom: 10px;">
 
-<hr>
-    
+<hr>   
 ### Additional Collaborators
-    
+  
+<!-- prettier-ignore -->    
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
   <div class="row">
   {% for p in site.data.addcollab %}
@@ -129,4 +131,6 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
 
 <div class="container" style="margin-top: 40px;margin-bottom: 10px;">
+  
+<hr>
 
