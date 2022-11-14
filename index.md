@@ -139,7 +139,4 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 <a href="https://aphi22.github.io/ocean-nexus-well-being.github.io/people/">More Info</a>
 </div>
 
-<hr>
-post_search: true 
-
 
