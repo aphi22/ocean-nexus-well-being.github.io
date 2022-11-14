@@ -101,7 +101,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
 
 <div class="container" style="margin-top: 40px;margin-bottom: 10px;">
-<a href="https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/people/">More Info</a>
+<a href="https://aphi22.github.io/ocean-nexus-well-being.github.io/people/">More Info</a>
 </div>
 
 <hr>
@@ -136,11 +136,10 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
 
 <div class="container" style="margin-top: 40px;margin-bottom: 10px;">
-<a href="https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/people/">More Info</a>
+<a href="https://aphi22.github.io/ocean-nexus-well-being.github.io/people/">More Info</a>
 </div>
 
 <hr>
-
-
+post_search: true 
 
 
