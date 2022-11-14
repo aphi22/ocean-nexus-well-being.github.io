@@ -16,10 +16,9 @@ author: Ocean Nexus
 
 navbar-links:
   About: "https://ever-rasy.github.io/oceanwellbeingworkshop.github.io/"
-  Workshop Materials:
-    - Slides & Recordings: "workshop-materials"
-    - Participant Discussions: "discussion"
-    - What is Mural?: "mural"
+  Slides & Recordings: "workshop-materials"
+  Participant Discussions: "discussion"
+  What is Mural?: "mural"
   People: "people"
 
 # --- Logo --- #
@@ -103,14 +102,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#515151"
+navbar-col: "#64748E"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#808080"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#7A93BD"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#7A93BD"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
@@ -120,7 +119,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "background3.png"
+page-img: "AdobeStock_340750843.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
