@@ -131,6 +131,3 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
 
 <div class="container" style="margin-top: 40px;margin-bottom: 10px;">
-  
-<hr>
-
