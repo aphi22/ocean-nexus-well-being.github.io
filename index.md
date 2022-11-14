@@ -31,7 +31,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 <hr>
 ### Agenda
 
-![Agenda](assets/img/Work breakdown structure.png)
+![bulb_wordcloud_fixed](assets/img/Work breakdown structure.png)
 
 <hr>
 ### Coordinating Team
