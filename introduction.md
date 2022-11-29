@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Well-being?
+title: Introduction and Well-being Domains
 use-site-title: false
 ---
 
