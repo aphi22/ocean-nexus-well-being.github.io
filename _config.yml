@@ -16,7 +16,7 @@ author: Ocean Nexus
 
 navbar-links:
   About: "https://aphi22.github.io/ocean-nexus-well-being.github.io/"
-  Slides & Recordings: "workshop-materials"
+  Slides & Recordings:
    - Introduction: "introduction"
    - Health Related Well-being: "healthwb"
    - Social & Political Well-being: "socialwb"
