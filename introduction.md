@@ -8,7 +8,7 @@ There is no single definition for well-being, so finding connections across dive
 
 ![common](assets/img/common.png)
 
-#**Well-being Frameworks**
+## **Well-being Frameworks**
 
 There are many different frameworks being utilized world wide to measure well-being outcomes with different sets of domains. Some are as simple as just four broader focuses while others have many more specialized domains on which to focus. 
 
