@@ -9,7 +9,7 @@ use-site-title: false
  
  ![SDG_3](/assets/img/SDG_3.png)
  
- # **UN SDG 3: Ensure healthy lives and promote well-being for all at all ages**
+ ## **UN SDG 3: Ensure healthy lives and promote well-being for all at all ages**
  
  ![SDG_3_solo](/assets/img/SDG_3_solo.png)
  
