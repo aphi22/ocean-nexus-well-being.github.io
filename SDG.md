@@ -11,7 +11,7 @@ use-site-title: false
  
  **UN SDG 3: Ensure healthy lives and promote well-being for all at all ages**
  
- ![SDG_3_unique](/assets/img/SDG_3_unique.png)
+ ![SDG_3_solo](/assets/img/SDG_3_solo.png)
  
 It is important to acknowledge that of the 13 indicators for this SDG only one (3.4) is related to well-being, and there are only two indicators here both related to mortality rate. The goal of this workshop is to expand this thinking by justifying a more holistic approach to understanding well-being. 
 
