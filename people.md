@@ -7,38 +7,40 @@ title: Ocean Well-being Workshop
 <!-- prettier-ignore -->
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
 
-  <div class="row">
+ <p float="left">
   {% for p in site.data.workshopteam %}
   {% if forloop.index<=4 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% include profile.html p=p %}
-  <aside>
-  {% include profile_detail.html p=p %} 
+  {% include profile.html p=25 %}
+
+  {% include profile_detail.html p=25 %} 
   {% endif %}
   {% endfor %}
-  </div>
-  <div class="row">
+  </p>
+    
+ <p float="left">
   {% for p in site.data.workshopteam %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% if forloop.index>4 and forloop.index<=10%}
-  {% include profile.html p=p %}
- <aside>
-  {% include profile_detail.html p=p %} 
+  {% include profile.html p=25 %}
+
+  {% include profile_detail.html p=25 %} 
   {% endif %}
   {% endfor %}
-  </div>
-  <div class="row">
+  </p>
+    
+ <p float="left">
   {% for p in site.data.workshopteam %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% if forloop.index>10%}
-  {% include profile.html p=p %}
-  <aside>
-  {% include profile_detail.html p=p %} 
+  {% include profile.html p=25 %}
+
+  {% include profile_detail.html p=25 %} 
   {% endif %}
   {% endfor %}
- </div>
-</div>
-
+  </p>
+  </div> 
+  
 ## Additional Collaborators
 
 {% for p in site.data.addcollab %} {% if forloop.index<8 %}
@@ -55,3 +57,5 @@ title: Ocean Well-being Workshop
 {% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}
 
 {% endif %} {% endfor %}
+  
+**primary contact** 
