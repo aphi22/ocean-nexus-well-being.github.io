@@ -12,6 +12,7 @@ title: Ocean Well-being Workshop
   {% if forloop.index<=4 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
+  <br>
   {% include profile_detail.html p=p %} 
   {% endif %}
   {% endfor %}
@@ -21,6 +22,7 @@ title: Ocean Well-being Workshop
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% if forloop.index>4 and forloop.index<=10%}
   {% include profile.html p=p %}
+  <br>
   {% include profile_detail.html p=p %} 
   {% endif %}
   {% endfor %}
@@ -30,6 +32,7 @@ title: Ocean Well-being Workshop
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% if forloop.index>10%}
   {% include profile.html p=p %}
+  <br>
   {% include profile_detail.html p=p %} 
   {% endif %}
   {% endfor %}
