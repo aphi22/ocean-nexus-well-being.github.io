@@ -4,10 +4,10 @@ title: Ocean Well-being Workshop
 use-site-title: true
 ---
 
-# What is well-being?
+## What is well-being?
 ![whale_wordcloud](assets/img/whale_wordcloud.png)
 
-# Ocean Nexus
+## Ocean Nexus
 A workshop was held in June of 2021 focused on well-being. Transdisciplinary leaders were brought together to collaborate and facilitate the discussion around well-being and what we can do to make it a focal point in public health. We have now created this space to disseminate what they learned and to hopefully shed some much needed light on this topic.
 
 Our Mission: To contribute to transforming ocean governance through scholarship, communication, and training a transdisciplinary and international network of researchers integrating human-centered tools, perspectives, evidence and narratives.
@@ -16,7 +16,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 
 <hr>
 
-# Workshop Overview
+## Workshop Overview
 
 **Learning Objective:** The goal of the workshop is to encompass and understand a holistic approach to well-being for oceans 
 
