@@ -4,12 +4,12 @@ title: Sustainable Development Goals
 use-site-title: false
 ---
 
-**What are SDGs?**
+# **What are SDGs?**
  Sustainable development goals are a blueprint for all United Nation's countries to follow. These 17 goals were adopted in 2015 and are targets to strive for by 2030. 
  
  ![SDG_3](/assets/img/SDG_3.png)
  
- **UN SDG 3: Ensure healthy lives and promote well-being for all at all ages**
+ # **UN SDG 3: Ensure healthy lives and promote well-being for all at all ages**
  
  ![SDG_3_solo](/assets/img/SDG_3_solo.png)
  
