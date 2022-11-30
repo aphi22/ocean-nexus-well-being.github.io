@@ -18,11 +18,14 @@ navbar-links:
   About: "https://aphi22.github.io/ocean-nexus-well-being.github.io/"
   Slides & Recordings:
    - Introduction: "introduction"
+   - SDGs: "SDG"
    - Health Related Well-being: "healthwb"
    - Social & Political Well-being: "socialwb"
    - Cultural Well-being: "culturalwb"
    - Economic Well-being: "economicwb"
-   - Wales Case Study: "wales"
+  Case Studies:
+   - Indonesia: "indonesia"
+   - Wales: "wales"
   Participant Discussions: "discussion"
   Mural: "mural"
   Contact Us: "people"
