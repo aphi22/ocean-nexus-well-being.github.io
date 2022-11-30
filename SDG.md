@@ -13,6 +13,7 @@ use-site-title: false
  
  ![SDG_3_solo](/assets/img/SDG_3_solo.png)
  
-It is important to acknowledge that of the 13 indicators for this SDG only one (3.4) is related to well-being, and there are only two indicators here both related to mortality rate. The goal of this workshop is to expand this thinking by justifying a more holistic approach to understanding well-being. 
+It is important to acknowledge that of the 13 targets for SDG 3 only one (3.4) is related to well-being, and there are only two indicators within this target. It also it  The goal of this workshop is to expand this thinking by justifying a more holistic approach to understanding well-being. 
 
 ![3_SDG_MakeEveryDayCount_Gifs_GDU](/assets/img/3_SDG_MakeEveryDayCount_Gifs_GDU.gif)
+
