@@ -65,6 +65,7 @@ Our Mission: To contribute to transforming ocean governance through scholarship,
 </div>
     
 <hr>  
+    
 ### Workshop Team
     
 <!-- prettier-ignore -->  
