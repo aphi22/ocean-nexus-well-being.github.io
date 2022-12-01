@@ -1,20 +1,20 @@
 Nicholas:
   name: "Nicholas McClean"
-  email: "faustman@uw.edu"
+  email: "mailto:Nicholas.McClean@uts.edu.au"
   url: "https://profiles.uts.edu.au/Nicholas.McClean/about"
   affiliation: "University of Technology Sydney"
   img: "../assets/img/nicholas.png"
 
 Michael:
   name: "Michael Fabinyi"
-  email: "faustman@uw.edu"
+  email: "mailto:Michael.Fabinyi@uts.edu.au"
   url: "https://profiles.uts.edu.au/Michael.Fabinyi"
   affiliation: "University of Technology Sydney"
   img: "../assets/img/michael.png"
 
 Laurie Chan:
   name: "Laurie Chan"
-  email: "faustman@uw.edu"
+  email: "mailto:laurie.chan@uOttawa.ca"
   url: "https://mysite.science.uottawa.ca/lcha2/content/home"
   affiliation: "University of Ottawa"
   img: "../assets/img/laurie.png"
