@@ -236,7 +236,7 @@ kramdown:
 # Default YAML values (more information on Jekyll's site)
 defaults:
 
- width: "full-width"
+ full-width: true
   -
     scope:
       path: ""
