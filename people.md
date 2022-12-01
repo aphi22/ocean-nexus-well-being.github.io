@@ -2,44 +2,16 @@
 layout: page
 title: Ocean Well-being Workshop
 ---
-## Workshop Team
 
 <!-- prettier-ignore -->
+
 <div class="container" style="margin-top: 20px;margin-bottom: 10px;">
 
- <p float="left">
-  {% for p in site.data.workshopteam %}
-  {% if forloop.index<=4 %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% include profile.html p=25 %}
-
-  {% include profile_detail.html p=25 %} 
-  {% endif %}
-  {% endfor %}
-  </p>
-    
- <p float="left">
-  {% for p in site.data.workshopteam %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>4 and forloop.index<=10%}
-  {% include profile.html p=25 %}
-
-  {% include profile_detail.html p=25 %} 
-  {% endif %}
-  {% endfor %}
-  </p>
-    
- <p float="left">
-  {% for p in site.data.workshopteam %}
-  {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>10%}
-  {% include profile.html p=25 %}
-
-  {% include profile_detail.html p=25 %} 
-  {% endif %}
-  {% endfor %}
-  </p>
-  </div> 
+## Workshop Team
+ 
+{% for p in site.data.workshopteam %} {% if forloop.index<8 %}
+{% capture id %}{{ p[1] }}{% endcapture %} {% include profile.html p=p %}
+{% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}
   
 ## Additional Collaborators
 
