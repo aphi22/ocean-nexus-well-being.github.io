@@ -9,8 +9,8 @@ title: Meet the Team
 <style>
 
 {% for p in site.data.workshopteam %} {% if forloop.index<8 %}
-{% capture id %}{{ p[0] }}{% endcapture %} {% include profile_contact.html p=p %}
-{% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}
+<li>{% capture id %}{{ p[0] }}{% endcapture %} {% include profile_contact.html p=p %}</li>
+<li>{% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}</li>
 {% endif %} {% endfor %}
                                                             
 ul#display-inline-block-example,
