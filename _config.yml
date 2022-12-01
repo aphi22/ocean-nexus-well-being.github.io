@@ -5,6 +5,8 @@
 
 # --- Required options --- #
 
+remote_theme: daattali/beautiful-jekyll@5.0.0
+
 # Name of website
 title: Wellbeing Workshop
 background: "background"
@@ -222,7 +224,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Seattle"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -264,4 +266,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
