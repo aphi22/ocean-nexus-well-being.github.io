@@ -1,6 +1,6 @@
 Elaine:
   name: "Elaine Faustman"
-  email: "faustman@uw.edu"
+  email: "mailto:faustman@uw.edu"
   url: "https://deohs.washington.edu/faculty/elaine-faustman"
   affiliation: "Professor, University of Washington"
   img: "../assets/img/elaine1.png"
@@ -8,7 +8,7 @@ Elaine:
 
 Kate:
   name: "Kate Barclay"
-  email: "Kate.Barclay@uts.edu.au"
+  email: "mailto:Kate.Barclay@uts.edu.au"
   url: "https://profiles.uts.edu.au/Kate.Barclay"
   affiliation: "Professor, University of Technology, Sydney"
   img: "../assets/img/kate1.png"
@@ -16,7 +16,7 @@ Kate:
 
 Suzy:
   name: "Suzy An"
-  email: "suji@uw.edu"
+  email: "mailto:suji@uw.edu"
   url: "https://www.linkedin.com/in/suzy-an/"
   affiliation: "Ocean Nexus Fellow, University of Washington"
   img: "../assets/img/suzy1.png"
@@ -24,7 +24,7 @@ Suzy:
 
 Tiff:
     name: "Tiff-Annie Kenny"
-    email: "tiff-annie.kenny@crchudequebec.ulaval.ca"
+    email: "mailto:tiff-annie.kenny@crchudequebec.ulaval.ca"
     url: "https://nereusprogram.org/people/tiff-annie-kenny/"
     affiliation: "Professor, Universite Laval"
     img: "../assets/img/tiff1.png"
@@ -32,7 +32,7 @@ Tiff:
 
 Jill:
   name: "Jill Falman"
-  email: "falman@uw.edu"
+  email: "mailto:falman@uw.edu"
   url: "https://www.linkedin.com/in/jillfalman/"
   affiliation: "Research Scientist, University of Washington"
   img: "../assets/img/jill.png"
