@@ -9,7 +9,6 @@ title: Meet the Team
 {% for p in site.data.workshopteam %} {% if forloop.index<8 %}
 {% capture id %}{{ p[0] }}{% endcapture %} {% include profile_contact.html p=p %}
 {% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}
-{%width: 33.3%}
 {% endif %} {% endfor %}
 
  
