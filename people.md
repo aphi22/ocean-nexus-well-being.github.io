@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Ocean Well-being Workshop
+title: Meet the Team
 ---
-
 # Workshop Team
 
 {% for p in site.data.workshopteam %} {% if forloop.index<8 %}
@@ -27,5 +26,3 @@ title: Ocean Well-being Workshop
 {% capture id %}{{ p[1] }}{% endcapture %} {% include profile_detail.html p=p %}
 
 {% endif %} {% endfor %}
-
-**_primary contact_**
