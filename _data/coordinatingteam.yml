@@ -1,13 +1,13 @@
 Yoshi:
   name: "Yoshitoka Ota"
-  email: "yota1@uw.edu"
+  email: "mailto:yota1@uw.edu"
   url: "https://environment.uw.edu/faculty/yoshitaka-ota/"
   affiliation: "Professor and Director, Nippon Foundation Ocean Nexus Center"
   img: "../assets/img/yoshi.png"
   
 Karin:
   name: "Karin O. Trudo"
-  email: "Kate.Barclay@uts.edu.au"
+  email: "mailto:Kate.Barclay@uts.edu.au"
   url: "https://oceannexus.uw.edu/about/people/program-office/karin-otsuka-2/"
   affiliation: "Program Specialist, Nippon Foundation Ocean Nexus Center"
   img: "../assets/img/karin.png"
