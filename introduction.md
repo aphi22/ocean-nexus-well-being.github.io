@@ -16,7 +16,7 @@ There are many different frameworks being utilized world wide to measure well-be
 
 ## **Ocean Related Social Well-being**
 
-![Coulthard_fish](assets/img/coulthard_fish.pdf) _Coulthard et al.,_ developed a well-being approach for fisheries adapted from ![Sen86](assets/img/sen86.pdf) _Sen et al., 1987. It is focused on human well-being outcomes shown below. 
+[ _Coulthard et al.,_](https://www.researchgate.net/publication/280933374_Measuring_What_Matters_The_Role_of_Wellbeing_Methods_in_Development_Policy_and_Practice) developed a well-being approach for fisheries adapted from [_Sen et al., 1987._](https://tannerlectures.utah.edu/_resources/documents/a-to-z/s/sen86.pdf) It is focused on human well-being outcomes shown below. 
 
 ![human](assets/img/human.png) 
 
