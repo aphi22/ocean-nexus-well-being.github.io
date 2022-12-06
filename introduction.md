@@ -14,5 +14,11 @@ There are many different frameworks being utilized world wide to measure well-be
 
 ![frameworks](assets/img/frameworks.png) _Examples of Well-being Frameworks_
 
+## **Ocean Related Social Well-being**
+
+![Coulthard_fish](assets/img/coulthard_fish.pdf) _Coulthard et al.,_ developed a well-being approach for fisheries adapted from ![Sen86](assets/img/sen86.pdf) _Sen et al., 1987. It is focused on human well-being outcomes shown below. 
+
+![human](assets/img/human.png) 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJ-5MDY_JYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 [Introduction Full slides](https://drive.google.com/file/d/1J4RnB_gdYAhd_Ieo9sELwOY1Da3lNOer/view)
